@@ -1,1 +1,2 @@
+// using rules from finsweet
 { "extends": ["@finsweet"] }
